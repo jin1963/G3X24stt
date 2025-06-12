@@ -1,0 +1,16 @@
+
+body {
+    font-family: Arial, sans-serif;
+    background: #0a0a23;
+    color: white;
+    text-align: center;
+    padding: 40px;
+}
+.logo {
+    max-width: 200px;
+}
+button {
+    margin: 10px;
+    padding: 10px 20px;
+    font-size: 16px;
+}
